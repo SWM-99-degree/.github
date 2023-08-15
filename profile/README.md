@@ -5,17 +5,16 @@
     
 카페 매장과 손님을 연결해주는 매칭 서비스로 손님들은 원하는 카페를 쉽게 찾을 수 있고, 카페는 예약과 주문을 받아 더욱 효율적인 운영이 가능해진다.
 
-### 🙆‍♂️[~~배포 페이지~~](https://49.50.166.179)🙆‍
+### 🙆‍♂️[~~배포 페이지~~]🙆‍
 <br>
 <div align=left>
 
 ## 프로젝트 개요
 ### 소프트웨어 마에스트로 14기 - 팀 99℃ 의 프로젝트
 - **jari:Bean - 카페 예약 및 매칭 서비스**
-- 개발 기간 : 2022.6.20 ~ 진행중
-- 🛠 [ 프로젝트 일정 관리 백로그 ](https://docs.google.com/spreadsheets/d/114nd2S7HW2TsFTyKjC7WOrTkYY_o8vQmg40ADuNvmsM/edit?usp=sharing)
+- 개발 기간 : 2023.6.20 ~ 진행중
 - 🗄 [ 기획서](https://lineno2.notion.site/d4f2664412df48b6b9412e57b21bf90a?pvs=4)
-- 🎥 [ 피그마 페이지]()
+- 🎥 [ 피그마 페이지](https://www.figma.com/file/kprQo5meL68mthIIBAN0yq/%EC%B9%B4%ED%8E%98-%EB%B9%88-wireframe?type=design&node-id=0-1&mode=design)
 - 👩‍💻 [ 소개 노션 페이지](https://lineno2.notion.site/99-e3ec59eb3ab64b56a647f53837307cac?pvs=4)
 
 ### 카페의 자리를 잡기 위해 시간을 낭비하고 계신가요?
@@ -28,27 +27,31 @@
 ### 팀원 소개
 |최기성|김상현|이호선|
 |:---:|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/73420533/201267459-8392e1f7-ca7b-4afd-bae0-c32df21fa33a.png" width="180"/>|<img src="https://user-images.githubusercontent.com/73420533/201267890-7279a33e-e194-4f1e-b6e2-bdf3608d05b5.png" width="180"/>|<img src="https://user-images.githubusercontent.com/73420533/207784656-1b6e7a23-2ed1-44d3-87d6-c4a70c4577db.jpeg" width="180"/>|
-|[@mikaniz](https://github.com/mikaniz)|[@ParkKyungChan](https://github.com/ParkKyungChan)|[@sooyeon73](https://github.com/sooyeon73)|[@high2092](https://github.com/high2092)|
+|![최기성 프로필.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/795d807d-7afe-41ba-91ae-b92bf3561154/%EC%B5%9C%EA%B8%B0%EC%84%B1_%ED%94%84%EB%A1%9C%ED%95%84.png)|![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08ec94d7-0b18-4ba5-b70e-7984ed16a58b/Untitled.png)|![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a100e12-be8c-48ec-822c-06eaf36a53d5/Untitled.png)|
+|[@psy-choi](https://github.com/psy-choi)|[@isayaksh](https://github.com/isayaksh)|[@LineNo2](https://github.com/LineNo2)|[@high2092](https://github.com/high2092)|
     
 <br/>
 
 ## 사용된 기술 스택 및 아키텍처
 ### AWS 아키텍처
-![image](https://user-images.githubusercontent.com/73420533/207784878-d25d8558-760e-4f6b-b153-f9c6b084fc43.png)
+![image](https://github.com/SWM-99-degree/.github/assets/84831081/3b9c613d-111b-4c0c-8255-969087cc6cd4)
 
-![Web App Reference Architecture V2](https://user-images.githubusercontent.com/92143119/207920307-d3f64501-0934-4fa0-9259-ac46f5e11614.png)
+
+
+### Backend 아키텍처
+![image](https://github.com/SWM-99-degree/.github/assets/84831081/509015e7-3476-45bc-ae8a-79f79798633e)
     
 
 ### 활용한 기술
 #### 🪃 Backend
 - Spring Boot
-- EC2, ELB, SQS, Elasticache
+- EC2, ELB, SQS, Elasticache, API gateway, Open Search
 - Redis
 - MongoDB
 - ElasticSearch
 - Komoran
 - JPA
+- Github actions
     
 #### 🏈 Frontend
 
@@ -105,7 +108,8 @@
 - ⚙️ [완벽한 **`RESTful API`** 를 쓸 수 있을까?](https://mikaniz.notion.site/RESTful-API-2aa885e4362e41d786492515d6e0f834)
 - ✍️ [MSA를 굳이 활용할 필요가 있었을까? **`fastAPI`** 를 쓴 이유!](https://mikaniz.notion.site/LOG-550b280e89fc46f184f4d44e7691837d)
 - 🌀 [**`애니메이션`** 을 통한 한층 더 기분 좋은, 고퀄리티의 UI/UX](https://mikaniz.notion.site/UI-UX-70c561f8f0ba45d6adaaa5da9b160ea7)
-- 🎫 [**`Issue`** 관리와 **`Commit Message`** 를 어떻게 쓸까?](https://mikaniz.notion.site/PR-95732bea02ab4b3fa3f5459d347af5a1) 
+- 🎫 [**`Issue`** 관리와 **`Commit Message`** 를 어떻게 쓸까?](https://mikaniz.notion.site/PR-95732bea02ab4b3fa3f5459d347af5a1)
+- ✍️ [**`CICD`** 구축을 위한 우당탕탕 **`Github actions`** 일기](https://mikaniz.notion.site/PR-95732bea02ab4b3fa3f5459d347af5a1) 
 
 <br>
 
