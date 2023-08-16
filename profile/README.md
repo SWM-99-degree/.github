@@ -14,7 +14,6 @@
 - **jari:Bean - 카페 예약 및 매칭 서비스**
 - 개발 기간 : 2023.6.20 ~ 진행중
 - 🗄 [ 기획서](https://lineno2.notion.site/d4f2664412df48b6b9412e57b21bf90a?pvs=4)
-- 🎥 [ 피그마 페이지](https://www.figma.com/file/kprQo5meL68mthIIBAN0yq/%EC%B9%B4%ED%8E%98-%EB%B9%88-wireframe?type=design&node-id=0-1&mode=design)
 - 👩‍💻 [ 소개 노션 페이지](https://lineno2.notion.site/99-e3ec59eb3ab64b56a647f53837307cac?pvs=4)
 
 ### 카페의 자리를 잡기 위해 시간을 낭비하고 계신가요?
@@ -27,7 +26,7 @@
 ### 팀원 소개
 |최기성|김상현|이호선|
 |:---:|:---:|:---:|
-|![최기성 프로필.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/795d807d-7afe-41ba-91ae-b92bf3561154/%EC%B5%9C%EA%B8%B0%EC%84%B1_%ED%94%84%EB%A1%9C%ED%95%84.png)|![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08ec94d7-0b18-4ba5-b70e-7984ed16a58b/Untitled.png)|![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a100e12-be8c-48ec-822c-06eaf36a53d5/Untitled.png)|
+|(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/795d807d-7afe-41ba-91ae-b92bf3561154/%EC%B5%9C%EA%B8%B0%EC%84%B1_%ED%94%84%EB%A1%9C%ED%95%84.png)|(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08ec94d7-0b18-4ba5-b70e-7984ed16a58b/Untitled.png)|(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a100e12-be8c-48ec-822c-06eaf36a53d5/Untitled.png)|
 |[@psy-choi](https://github.com/psy-choi)|[@isayaksh](https://github.com/isayaksh)|[@LineNo2](https://github.com/LineNo2)|[@high2092](https://github.com/high2092)|
     
 <br/>
