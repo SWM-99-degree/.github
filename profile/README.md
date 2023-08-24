@@ -32,7 +32,8 @@
 
 
 ### Backend 아키텍처
-![image](https://github.com/SWM-99-degree/.github/assets/84831081/509015e7-3476-45bc-ae8a-79f79798633e)
+![image](https://github.com/SWM-99-degree/.github/assets/84831081/0d050e8a-d558-4805-b417-8e914260e3fc)
+
     
 
 ### 활용한 기술
