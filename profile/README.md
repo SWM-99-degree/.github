@@ -92,15 +92,15 @@
 <br>
 
 ## 기술적 고민 - [노션](https://mikaniz.notion.site/127548b26c254f42bf85f8963f8fd2be?v=60b5863159d845cbb77a1c38fa231952) / [기술 발표](https://www.youtube.com/watch?v=A--cReu9rgE)
-- 🕐 [**`SSE`** 과 **`FCM`** 중 어떤 것을 택해야 할까?](https://mikaniz.notion.site/1bf8fe670232484d84dbd880f176b438)
-- 🎨 [**`Elasticsearch`** 와  **`mongoSearch`** 중 어떤 것이 성능적으로 빠를까?](https://mikaniz.notion.site/Redis-socket-io-f2701f4bb4354e93ab3f8b8656801cc6)
+- 🕐 [**`Redis Pub/Sun`**, 어떻게 쓰는거죠?](https://psy-choi.tistory.com/40)
+- 🎨 [**`Elasticsearch`** 와  **`mongoSearch`** 중 어떤 것이 성능적으로 빠를까?](https://psy-choi.tistory.com/33)
 - 🔏 [로그인 중 토큰을 탈취 당하지 않으려면 어떻게 해야 할까?](https://mikaniz.notion.site/af770bf344f949bbaa9b3eda6cc2006c)
 - 🚶 [**`MongoDB`** 와 **`PostSQL`** 중 어떤 DB를 활용하는 것이 좋을까? ](https://mikaniz.notion.site/Raw-Query-c66a2b0b0e6f4db692d78db72cc308f5)
 - ⚙️ [완벽한 **`RESTful API`** 를 쓸 수 있을까?](https://mikaniz.notion.site/RESTful-API-2aa885e4362e41d786492515d6e0f834)
 - ✍️ [MSA를 굳이 활용할 필요가 있었을까? **`fastAPI`** 를 쓴 이유!](https://mikaniz.notion.site/LOG-550b280e89fc46f184f4d44e7691837d)
-- 🌀 [**`애니메이션`** 을 통한 한층 더 기분 좋은, 고퀄리티의 UI/UX](https://mikaniz.notion.site/UI-UX-70c561f8f0ba45d6adaaa5da9b160ea7)
+- 🌀 [**`SQS`** 를 통한 전송보장, 어떻게 할까요?](https://psy-choi.tistory.com/44)
 - 🎫 [**`Issue`** 관리와 **`Commit Message`** 를 어떻게 쓸까?](https://mikaniz.notion.site/PR-95732bea02ab4b3fa3f5459d347af5a1)
-- ✍️ [**`CICD`** 구축을 위한 우당탕탕 **`Github actions`** 일기](https://mikaniz.notion.site/PR-95732bea02ab4b3fa3f5459d347af5a1) 
+- ✍️ [**`CICD`** 구축을 위한 우당탕탕 **`Github actions`** 일기](https://psy-choi.tistory.com/28) 
 
 <br>
 
