@@ -101,7 +101,7 @@
 - ✍️ [MSA를 굳이 활용할 필요가 있었을까? **`fastAPI`** 를 쓴 이유!](https://mikaniz.notion.site/LOG-550b280e89fc46f184f4d44e7691837d)
 - 🌀 [**`SQS`** 를 통한 전송보장, 어떻게 할까요?](https://psy-choi.tistory.com/44)
 - 🎫 [**`Issue`** 관리와 **`Commit Message`** 를 어떻게 쓸까?](https://mikaniz.notion.site/PR-95732bea02ab4b3fa3f5459d347af5a1)
-- ✍️ [**`CICD`** 구축을 위한 우당탕탕 **`Github actions`** 일기](https://psy-choi.tistory.com/28) 
+- ✍️ [**`CICD`** 구축을 위한 우당탕탕 **`Github actions`** 일기](https://psy-choi.tistory.com/28)
 
 <br>
 
