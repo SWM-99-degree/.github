@@ -1,18 +1,18 @@
 
 
-# "자리:Bean" - 카페 위치 탐색 및 예약 서비스 
+# "자리:Bean" - 카페 자리 예약 및 매칭 서비스
 ![](https://hackmd.io/_uploads/HykQw6Nsh.png)
     
 카페 매장과 손님을 연결해주는 매칭 서비스로 손님들은 원하는 카페를 쉽게 찾을 수 있고, 카페는 예약과 주문을 받아 더욱 효율적인 운영이 가능해진다.
 
 ## Android
 ![image](https://github.com/SWM-99-degree/.github/assets/57629885/40ea1556-34ec-4289-a1e4-997395a400e8)
-[다운로드](https://play.google.com/store/apps/details?id=com.jari_bean.app)
+[Play Store](https://play.google.com/store/apps/details?id=com.jari_bean.app)
 
 
 ## iOS
 ![image](https://github.com/SWM-99-degree/.github/assets/57629885/17fbfbb4-ed5d-4c51-b0fe-b6cabffc00bb)
-[다운로드](https://apps.apple.com/kr/app/%EC%9E%90%EB%A6%AC-bean/id6471389388?l=ko-KR)
+[App Store](https://apps.apple.com/kr/app/%EC%9E%90%EB%A6%AC-bean/id6471389388?l=ko-KR)
 <br>
 <div align=left>
 
